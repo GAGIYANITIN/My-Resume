@@ -1,1 +1,8 @@
-# My-Resume
+- # My-Resume
+- 👋 Hi, I’m @GAGIYANITIN
+- 👀 I’m interested in computer programing
+- 🌱 I’m currently learning bca
+- 💞️ I’m looking to collaborate on the project of about cricketer 
+- 📫 How to reach me nitingagiya45@gmail.com
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
