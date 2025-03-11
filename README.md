@@ -1,8 +1,8 @@
 - # My-Resume
-- 👋 Hi, I’m @GAGIYANITIN
-- 👀 I’m interested in computer programing
-- 🌱 I’m currently learning bca
-- 💞️ I’m looking to collaborate on the project of about cricketer 
+- 👋 Hi, I’m @GAGIYANITIN,
+- 👀 I’m interested in computer programing.
+- 🌱 I completed BCA(Bechalor Of Computer Architecture) in 2024.
+- 💞️ I’m looking to collaborate on the project of Cricketer Summary, FindShip and Snack WebGames.  
 - 📫 How to reach me nitingagiya45@gmail.com
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
